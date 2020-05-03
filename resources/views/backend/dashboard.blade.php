@@ -1,0 +1,1 @@
+@extends('backend.components.layout')
